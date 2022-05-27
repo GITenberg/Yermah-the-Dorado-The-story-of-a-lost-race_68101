@@ -1,5 +1,8 @@
 _repo: Yermah-the-Dorado-The-story-of-a-lost-race_68101
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68101-h/images/cover.jpg
 creator:
   author:
     agent_name: Wait, Frona Eunice
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41872'
     url: http://www.gutenberg.org/2009/agents/41872
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68101#Yermah-the-Dorado-The-story-of-a-lost-race
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68101'
